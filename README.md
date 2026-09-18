@@ -26,6 +26,12 @@
 
 ---
 
+## ✅ Project grade screenshot
+
+![Project screenshot](marks/mark.png)
+
+---
+
 ## 📖 Table of Contents
 
 1. [What This Repository Is](#what-this-repository-is)
